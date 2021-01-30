@@ -1,0 +1,9 @@
+// The structure of a Javasript Program
+// Draw as many cats as you want!
+var drawCats = function (howManyTimes) {
+  for (var i = 0; i < howMantTimes; i++) {
+    console.log(i + " =^.^= ");
+  }
+ };
+ 
+ drawCats(50); // You can out any number here instead of 50.
